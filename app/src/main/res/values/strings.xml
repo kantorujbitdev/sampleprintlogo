@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sample Print Logo</string>
+
+    <string name="select_serial_port">select serial port:</string>
+    <string name="select_baud_rate">baud rate</string>
+    <string name="open_serial_port">open serial port</string>
+    <string name="close_serial_port">close serial port</string>
+    <string name="no_serial_device">no serial device</string>
+
+
+    <string name="text_titik">-------------------------------------------------------------</string>
+    <string name="text_align_center">1B6101</string>
+    <string name="text_align_right">1B6102</string>
+    <string name="text_align_left">1B6100</string>
+    <string name="text_small">1B2101</string>
+    <string name="text_normal">1B2100</string>
+    <string name="text_big">1B2118</string>
+    <string name="cutting">1D5600</string>
+
+
+    <string name="text_titik_siupo">-------------------------------</string>
+    <string name="margin_right_printer">1B5102</string>
+</resources>
