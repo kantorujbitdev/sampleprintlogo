@@ -6,7 +6,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".printer.MainActivity">
+    tools:context=".MainActivity">
 
     <LinearLayout
         android:id="@+id/frame_name"
@@ -111,7 +111,7 @@
         android:layout_alignParentBottom="true"
         android:gravity="center_horizontal"
         android:layout_margin="10dp"
-        android:weightSum="3"
+        android:weightSum="2"
         >
 
       <Button
@@ -133,15 +133,6 @@
           android:gravity="center"
           />
 
-      <Button
-          android:layout_weight="1"
-          android:id="@+id/test_print3"
-          android:text="Nota 3"
-          android:layout_margin="10dp"
-          android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:gravity="center"
-          />
     </LinearLayout>
 
 
